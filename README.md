@@ -74,3 +74,6 @@ How can charging infrastructure planning be optimized to match future EV adoptio
 
 Link: 
 https://www.iea.org/data-and-statistics/data-product/global-ev-outlook-2025#global-ev-data 
+=======
+# Electric-Vehicle-Analysis-in-Europe
+>>>>>>> origin/main
